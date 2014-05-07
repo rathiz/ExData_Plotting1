@@ -1,3 +1,7 @@
+## Submission of Peer Assignment 1
+
+plot#.R files have the necessary code to generate respective plot#.png plots.
+
 ## Introduction
 
 This assignment uses data from
